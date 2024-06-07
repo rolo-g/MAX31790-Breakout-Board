@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 2.6,
+          "width": 2.6
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -179,7 +179,8 @@
       ],
       "track_widths": [
         0.0,
-        0.1778
+        0.1778,
+        0.381
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -445,7 +446,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "MAX31790_breakout.kicad_pro",
+    "filename": "MAX31790-Breakout-Board.kicad_pro",
     "version": 1
   },
   "net_settings": {
