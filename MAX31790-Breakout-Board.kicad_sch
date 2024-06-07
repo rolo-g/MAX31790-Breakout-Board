@@ -4,6 +4,13 @@
 	(generator_version "8.0")
 	(uuid "863dd5c6-41ed-42b1-8c49-6bda04f0df2b")
 	(paper "A4")
+	(title_block
+		(title "MAX31790 Breakout Board")
+		(date "2024-06-07")
+		(rev "0.1")
+		(company "Rolando Rosales")
+		(comment 1 "https://github.com/rolo-g/MAX31790-Breakout-Board")
+	)
 	(lib_symbols
 		(symbol "Connector:Screw_Terminal_01x03"
 			(pin_names
